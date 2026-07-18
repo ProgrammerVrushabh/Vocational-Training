@@ -1,0 +1,11 @@
+Deliverables
+
+1. Data Preparation & Modeling (Python): Clean and transform the raw dataset for analysis.
+
+2. Data Analysis (SQL): Organize the data into a structured format, simulate business transaction,                     and run queries to extract insights on customer segments, loyalty, and purchase drivers.
+
+3. Visualization & Insights (Power BI): Build an interactive dashboard that highlihgts key pattern and trends, enabling stakeholders to make data-driven decisions.
+
+4. Report and Presentation: Write a clear project report summarizing our key findings and business recommendations. Prepare a presentation that visually communicates insights and actionables recommendations to stakeholders.
+
+5. Github Repository: Include all Python scripts, Sql queries, and Dashboard files in a well structured repository.
